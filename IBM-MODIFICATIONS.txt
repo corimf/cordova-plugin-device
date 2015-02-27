@@ -1,0 +1,5 @@
+Backport universal app support to device plugin
+
+- Cordova RTC work item number: 66401
+- Apache Cordova Jira issue: https://issues.apache.org/jira/browse/CB-7262
+- Full description: This commit just missed inclusion in 3.6.1esr
